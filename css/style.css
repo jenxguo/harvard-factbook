@@ -1,0 +1,38 @@
+.image {
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+#title {
+    color: #990000;
+}
+
+#cs171-basics {
+    background-color: #990000;
+    border-width: 0;
+}
+
+#cs171-basics:hover {
+    background-color: black;
+}
+
+#content {
+    margin-top: 1em;
+}
+
+#content p {
+    font-size: medium;
+}
+
+/* .container {
+    margin-top: 2em;
+    display: flex;
+}
+
+.left {
+    flex: 3;
+}
+
+.right {
+    flex: 1;
+} */
